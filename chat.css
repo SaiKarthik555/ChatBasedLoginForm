@@ -1,0 +1,36 @@
+#position{
+	position: absolute;
+	top:20%;
+	left:35%;
+}
+
+.style{
+	padding: 20px;
+	color:#000;
+	background-color: #00CC66;
+	text-decoration: none;
+	font-size: 20px;
+	margin: 15px;
+}
+
+.style:hover{
+	color:#00cc66;
+	background-color: #000;
+}
+
+#final{
+	position: absolute;
+	top:33%;
+	padding: 20px;
+	left:36%;
+	width: 29%;
+	background-color: #99ff99;
+	height:50%;
+	overflow: auto;
+	font-family:"Century Gothic";
+}
+#style1
+{
+	text-decoration: none;
+	padding: 21px;
+}
