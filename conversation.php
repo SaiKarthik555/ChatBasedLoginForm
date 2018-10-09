@@ -103,7 +103,7 @@ if(isset($_GET['hash']) && !empty($_GET['hash'])){
 	<br/><br/>
 	<input type='submit'  value='Send Message' style="cursor:pointer;" />
 	</form>
-	<p id='chat' >hi</p>
+	
 
 <?php
 }
